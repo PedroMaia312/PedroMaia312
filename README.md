@@ -32,7 +32,7 @@ Meu foco é crescer em **back-end, automação/RPA e cloud**.
 
 <div align="center">
   <a href="https://github.com/PedroMaia312">
-    <img height="170em" src="https://github-readme-stats-fast.vercel.app/api?username=PedroMaia312&show_icons=true&include_all_commits=true&count_private=true&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
+    <img height="170em" src="https://github-readme-stats-fast.vercel.app/api?username=PedroMaia312&show_icons=true&count_private=true&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
     <img height="170em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PedroMaia312&layout=compact&langs_count=8&title_color=2ea043&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
   </a>
 </div>
@@ -42,7 +42,7 @@ Meu foco é crescer em **back-end, automação/RPA e cloud**.
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PedroMaia312&bg_color=0d1117&color=c9d1d9&line=2ea043&point=ffffff&area=true&area_color=2ea043&hide_border=true&custom_title=Contribuições%20nos%20últimos%2031%20dias" />
+  <img width="100%" src="https://ghchart.rshah.org/2ea043/PedroMaia312" alt="Contribuições no último ano" />
 </div>
 
 ---
@@ -53,13 +53,13 @@ Os repositórios do estágio são privados, então aqui aparece só o volume de 
 
 <div align="center">
   <a href="https://github.com/pedromaia-bluetape">
-    <img height="170em" src="https://github-readme-stats-fast.vercel.app/api?username=pedromaia-bluetape&show_icons=true&include_all_commits=true&count_private=true&custom_title=Conta%20de%20trabalho&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9&bg_color=0d1117&hide_border=true&hide_rank=true" />
+    <img height="170em" src="https://github-readme-stats-fast.vercel.app/api?username=pedromaia-bluetape&show_icons=true&count_private=true&custom_title=Conta%20de%20trabalho&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9&bg_color=0d1117&hide_border=true&hide_rank=true" />
     <img height="170em" src="https://streak-stats.demolab.com?user=pedromaia-bluetape&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2EA043&fire=2EA043&currStreakLabel=2EA043&locale=pt_BR" />
   </a>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pedromaia-bluetape&bg_color=0d1117&color=c9d1d9&line=2ea043&point=ffffff&area=true&area_color=2ea043&hide_border=true&custom_title=Contribuições%20no%20trabalho%20nos%20últimos%2031%20dias" />
+  <img width="100%" src="https://ghchart.rshah.org/2ea043/pedromaia-bluetape" alt="Contribuições no último ano" />
 </div>
 
 ---
